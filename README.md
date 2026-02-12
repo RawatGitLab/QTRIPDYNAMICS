@@ -42,7 +42,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries, please reach out to [your-email@example.com].
+For inquiries, please reach out to varunrawatmailbox2507@gmail.com.
 
 ## Acknowledgments
 - Thank you to all the contributors and the community for their support!
